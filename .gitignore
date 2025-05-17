@@ -1,0 +1,20 @@
+# Ignora executáveis gerados pela compilação
+*.exe
+*.out
+
+# Ignora arquivos objeto
+*.o
+
+# Ignora arquivos temporários de backup
+*~
+*.swp
+
+# Ignora configurações locais do VS Code
+.vscode/
+
+# Ignora binários criados manualmente
+x-nivel*
+
+# Ignora arquivos de log
+*.log
+

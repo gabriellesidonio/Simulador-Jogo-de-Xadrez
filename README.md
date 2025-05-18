@@ -1,8 +1,8 @@
-# ♟️ Simulador de Movimentação de Peças de Xadrez em C
+#  Simulador de Movimentação de Peças de Xadrez em C
 
 Este projeto simula o movimento das peças de xadrez (Torre, Bispo, Rainha e Cavalo), desenvolvido em linguagem C, dividido em três níveis de dificuldade: Novato, Aventureiro e Mestre. É um desafio prático proposto na disciplina de Programação em C.
 
-## 🔸 Níveis do Desafio
+##  Níveis do Desafio
 
 ### Nível Novato
 - Simula os movimentos das peças com estruturas de repetição:
